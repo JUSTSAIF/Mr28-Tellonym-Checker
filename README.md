@@ -1,5 +1,6 @@
 # Mr28 - Tellonym-Checker
 Programmed By : C#
+Created in 2020/10/18
 
 ## Used libraries :
 - Newtonsoft.Json
